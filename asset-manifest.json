@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/pf_prototype1/static/css/main.309bfe21.css",
+    "main.js": "/pf_prototype1/static/js/main.98770115.js",
+    "static/media/cardio.png": "/pf_prototype1/static/media/cardio.978c8919ac35172d6f18.png",
+    "static/media/yoga.png": "/pf_prototype1/static/media/yoga.fbdd3083fdbbbb95a0f1.png",
+    "static/media/banner.png": "/pf_prototype1/static/media/banner.5b2c78d2ede48d1cba32.png",
+    "static/media/client2.png": "/pf_prototype1/static/media/client2.95e5c04a10dd9a5a591c.png",
+    "static/media/trainer2.jpg": "/pf_prototype1/static/media/trainer2.d8bd34c6f8fb5f91ca77.jpg",
+    "static/media/dance.jpeg": "/pf_prototype1/static/media/dance.4db92773b5f7cd21ea29.jpeg",
+    "static/media/cycling.png": "/pf_prototype1/static/media/cycling.54cb0aaaaf5ecfca1a15.png",
+    "static/media/trainer1.jpg": "/pf_prototype1/static/media/trainer1.b5d5317cf2eda9ac6eac.jpg",
+    "static/media/pool.jpeg": "/pf_prototype1/static/media/pool.d2e54d5d71775cc7afe6.jpeg",
+    "static/media/amenity-img.jpg": "/pf_prototype1/static/media/amenity-img.ff798c5c919c008b2ee9.jpg",
+    "static/media/map.png": "/pf_prototype1/static/media/map.51eeddf9ddb1763f79c9.png",
+    "static/media/strength.png": "/pf_prototype1/static/media/strength.2c0d30b9ce1579eb1109.png",
+    "static/media/verified_check.png": "/pf_prototype1/static/media/verified_check.a994150241a6c9e9b2c5.png",
+    "static/media/trainer3.jpg": "/pf_prototype1/static/media/trainer3.07e17fc595467f24a291.jpg",
+    "static/media/trainer4.jpg": "/pf_prototype1/static/media/trainer4.6ea2561572e72be3d969.jpg",
+    "static/media/banner_circle1.png": "/pf_prototype1/static/media/banner_circle1.dda5b62a9569a00fdeea.png",
+    "static/media/banner_circle2.png": "/pf_prototype1/static/media/banner_circle2.c795d34e103455740407.png",
+    "static/media/logo2.png": "/pf_prototype1/static/media/logo2.de78164c84a626c86562.png",
+    "static/media/red_check.png": "/pf_prototype1/static/media/red_check.3b21aab4666321d2485e.png",
+    "static/media/hours.png": "/pf_prototype1/static/media/hours.982cf9790f6df03dda32.png",
+    "index.html": "/pf_prototype1/index.html",
+    "main.309bfe21.css.map": "/pf_prototype1/static/css/main.309bfe21.css.map",
+    "main.98770115.js.map": "/pf_prototype1/static/js/main.98770115.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.309bfe21.css",
+    "static/js/main.98770115.js"
+  ]
+}
