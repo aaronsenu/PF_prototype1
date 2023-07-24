@@ -1,0 +1,137 @@
+.navbar{
+    position:fixed;
+    width: fill;
+    z-index: 2;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  #12181fc6;
+    margin-top: -1rem;
+}
+
+.logo{
+    width:4rem;
+    height: 4rem;
+    padding-left:2.5rem;
+    padding-right: 1rem;
+    padding-top:1.4rem;
+    
+    
+    
+    
+}
+
+.club-name{
+    display: flex;
+    padding-top:1.5rem;
+    padding-right: 49.2rem;
+    
+
+}
+
+.club-name>div>span:nth-of-type(1){
+    color:var(--orange);
+    font-size:1.5rem;
+    font-weight: bolder;
+}
+
+.club-name>div>span:nth-of-type(2){
+    color: white;
+    font-size:1.5rem;
+    font-weight: bolder;
+    
+}
+.navbar-menu{
+    display: flex;
+    flex-direction: row;
+    gap:6rem;
+    
+}
+
+.navbar-menu a{
+    margin-left:-40rem;
+    font-size: 1.1rem;
+    text-decoration: none;
+    display: flex;
+
+    padding-top: 2rem;
+    color:white;
+}
+
+
+.navbar-menu a:hover{
+    color: var(--orange);
+}
+
+
+.header-buttons>:nth-child(1){
+    position:absolute;
+    right:12rem;
+    top:2.5rem; 
+    color:var(--orange);
+
+    
+}
+
+.header-buttons>:nth-child(1):hover{
+    background-color: var(--appColor);
+    color:white;
+}
+
+.header-buttons>:nth-child(2){
+    position:absolute;
+    right:8rem;
+    top:2.5rem; 
+    color:var(--orange);
+    
+}
+
+.header-buttons>:nth-child(2):hover{
+    background-color: var(--appColor);
+    color:white;
+}
+
+/*
+.navbar-menu>li{
+    color: white;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+
+    
+}
+
+
+
+.navbar-menu>li>a:hover{
+    color: var(--orange);
+    cursor:pointer;
+}
+
+
+.navbar-buttons>:nth-child(1){
+    position:absolute;
+    right:12rem;
+    top:2.4rem; 
+    color:var(--orange);
+
+    
+}
+
+.navbar-buttons>:nth-child(1):hover{
+    background-color: var(--appColor);
+    color:white;
+}
+
+.navbar-buttons>:nth-child(2){
+    position:absolute;
+    right:8rem;
+    top:2.4rem; 
+    color:var(--orange);
+    
+}
+
+.navbar-buttons>:nth-child(2):hover{
+    background-color: var(--appColor);
+    color:white;
+}*/
